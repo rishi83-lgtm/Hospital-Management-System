@@ -1,0 +1,1 @@
+export { AppointmentsModule as default } from '../../App.jsx';

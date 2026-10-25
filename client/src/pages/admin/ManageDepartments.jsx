@@ -1,0 +1,1 @@
+export { DepartmentsModule as default } from '../../App.jsx';

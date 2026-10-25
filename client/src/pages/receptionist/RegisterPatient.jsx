@@ -1,0 +1,1 @@
+export { RegisterPatientForm as default } from '../../App.jsx';

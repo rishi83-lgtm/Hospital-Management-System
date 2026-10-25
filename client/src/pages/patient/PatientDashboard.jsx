@@ -1,0 +1,1 @@
+export { PatientDashboard as default } from '../../App.jsx';

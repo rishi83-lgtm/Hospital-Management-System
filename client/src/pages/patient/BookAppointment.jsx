@@ -1,0 +1,1 @@
+export { BookAppointmentWizard as default } from '../../App.jsx';

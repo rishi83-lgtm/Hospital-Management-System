@@ -1,0 +1,1 @@
+export { DoctorsModule as default } from '../../App.jsx';

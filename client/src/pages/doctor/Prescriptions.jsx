@@ -1,0 +1,1 @@
+export { PrescriptionsModule as default } from '../../App.jsx';
